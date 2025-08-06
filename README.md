@@ -77,5 +77,5 @@ Project submitted as part of VLSI stream under faculty guidance
 
 ---
 
-<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/46749203-e055-4f2e-8e94-9d323e86737c" />
+
 

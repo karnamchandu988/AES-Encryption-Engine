@@ -1,53 +1,69 @@
-# 🔧 Layout View
+## **Layout View — Floorplan with Standard Cells**
+*Floorplan snapshot showing standard cell placement and core area.*
+<br>
+<img width="800" alt="Floorplan with Standard Cells" src="https://github.com/user-attachments/assets/4a0009bc-11f5-40e5-b6d6-4b28878d6d3e" />
+<br><br>
 
-## 🖼️ Floorplan with Standard Cells
-
-<img width="1920" height="1200" alt="Layout Floorplan" src="https://github.com/user-attachments/assets/4a0009bc-11f5-40e5-b6d6-4b28878d6d3e" />
-
----
-
-# 🗂️ GDSII File View
-
-## 🖼️ GDSII Layout Snapshot
-
-<img width="1920" height="1200" alt="GDSII Layout" src="https://github.com/user-attachments/assets/2dc13138-0426-4881-b705-356e3340a0cd" />
+## **GDSII File View — GDSII Layout Snapshot**
+*Snapshot of the GDSII view showing hierarchical layout layers.*
+<br>
+<img width="800" alt="GDSII Layout Snapshot" src="https://github.com/user-attachments/assets/2dc13138-0426-4881-b705-356e3340a0cd" />
+<br><br>
 
 ---
 
-# 📈 Output Screenshots
+# **Output Screenshots**
 
-## 🖼️ Area Report (Before Filler Cells)
+## **Area Report — Before Filler Cells**
+*Placement snapshot showing cell distribution before filler insertion.*
+<br>
+<img width="800" alt="Area Report Before Filler Cells" src="https://github.com/user-attachments/assets/d71d23c5-5283-43e5-b3aa-794e9ed3a1dc" />
+<br><br>
 
-<img width="1920" height="1200" alt="Area Before Fillers" src="https://github.com/user-attachments/assets/d71d23c5-5283-43e5-b3aa-794e9ed3a1dc" />
+## **Area Report — After Filler Cells (100% Utilization)**
+*Layout after automatic filler insertion bringing placement density to 100%.*
+<br>
+<img width="800" alt="Area Report After Filler Cells" src="https://github.com/user-attachments/assets/9611aa17-143b-44cf-99e0-5522a4101bf2" />
+<br><br>
 
-## 🖼️ Area Report (After Filler Cells)
+## **Timing Report — Timing Summary**
+*Timing analysis / critical path snapshot from Innovus (timing tree / path view).*
+<br>
+<img width="800" alt="Timing Report Summary" src="https://github.com/user-attachments/assets/98a87403-f144-4aad-aa72-2bdc4a8e3004" />
+<br><br>
 
-<img width="1920" height="1200" alt="Area After Fillers" src="https://github.com/user-attachments/assets/9611aa17-143b-44cf-99e0-5522a4101bf2" />
+## **Power Report — Power Map Summary**
+*Power analysis overview showing estimated power density and hotspots.*
+<br>
+<img width="800" alt="Power Report Summary" src="https://github.com/user-attachments/assets/9cf40127-c17d-40e5-9c5a-00899bb25750" />
+<br><br>
 
-## 🖼️ Timing Report Summary
+## **Clock Tree Synthesis — CTS Visualization**
+*Clock tree synthesis result (clock distribution / tree layout).*
+<br>
+<img width="800" alt="Clock Tree Synthesis Report" src="https://github.com/user-attachments/assets/3d9c5562-ace3-4f50-8d7f-c45b73cf817b" />
+<br><br>
 
-<img width="1920" height="1200" alt="Timing Report" src="https://github.com/user-attachments/assets/98a87403-f144-4aad-aa72-2bdc4a8e3004" />
+## **Routing — Innovus Routing Completed**
+*Global and detailed routing completion snapshot.*
+<br>
+<img width="800" alt="Innovus Routing Completed" src="https://github.com/user-attachments/assets/f3bfa3d0-b148-4f35-ae16-3d0c7bb796dc" />
+<br><br>
 
-## 🖼️ Power Report Summary
+## **Power Stripes & Rings View — Power Distribution Network**
+*Power rails, stripes and rings view for VDD/VSS / PDN visibility.*
+<br>
+<img width="800" alt="Power Stripes and Rings View" src="https://github.com/user-attachments/assets/cae73ba5-51ce-4759-98cf-3e897051d2c0" />
+<br><br>
 
-<img width="1920" height="1200" alt="Power Report" src="https://github.com/user-attachments/assets/9cf40127-c17d-40e5-9c5a-00899bb25750" />
+## **Utilization Report — Cell Utilization Snapshot**
+*Utilization table / report showing cell counts and area usage.*
+<br>
+<img width="800" alt="Utilization Report Snapshot" src="https://github.com/user-attachments/assets/fa7163f2-095b-4050-8655-c1ed70f82c74" />
+<br><br>
 
-## 🖼️ Clock Tree Synthesis Report
-
-<img width="1920" height="1200" alt="CTS Report" src="https://github.com/user-attachments/assets/3d9c5562-ace3-4f50-8d7f-c45b73cf817b" />
-
-## 🖼️ Innovus Routing Completed
-
-<img width="1920" height="1200" alt="Routing Finished" src="https://github.com/user-attachments/assets/f3bfa3d0-b148-4f35-ae16-3d0c7bb796dc" />
-
-## 🖼️ Power Stripe and Ring View
-
-<img width="1920" height="1200" alt="Power Planning" src="https://github.com/user-attachments/assets/cae73ba5-51ce-4759-98cf-3e897051d2c0" />
-
-## 🖼️ Utilization Report Snapshot
-
-<img width="1920" height="1200" alt="Utilization Report" src="https://github.com/user-attachments/assets/fa7163f2-095b-4050-8655-c1ed70f82c74" />
-
-## 🖼️ Final Layout Snapshot
-
-<img width="1920" height="1200" alt="Final Layout" src="https://github.com/user-attachments/assets/a61f4e2c-82b3-4fd9-b627-1d722e339f34" />
+## **Final Layout Snapshot — Post-Route / GDS View**
+*Final routed layout ready for sign-off / GDSII generation.*
+<br>
+<img width="800" alt="Final Layout Snapshot" src="https://github.com/user-attachments/assets/a61f4e2c-82b3-4fd9-b627-1d722e339f34" />
+<br><br>

@@ -91,7 +91,7 @@ It includes:
 This project was developed as a **Mini Project during the CITD Internship**.  
 
 **Team Members:**
-- Karnam Chandu  
+- Karnam Chandra Shekar
 - Bombothula Kruthika  
 - Chouti Poojitha  
 - Yellu Harish Reddy  
